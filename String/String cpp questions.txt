@@ -1,0 +1,250 @@
+#String cpp
+
+Question 1
+Write a C program to scan a string from the user and to print it.
+
+Input Format:
+Input consists of 1 string.
+
+Output Format:
+Print the output in the format:
+The string is <input_string>
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT:
+Consensus
+
+SAMPLE OUTPUT:
+The string is Consensus
+
+
+
+2)Write a C program to find the length of the given string using string library functions. 
+
+INPUT & OUTPUT FORMAT:
+
+Input consists of 1 string. 
+
+Output print the length of the string.
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT :
+Consensus
+
+SAMPLE OUTPUT :
+
+The length of Consensus is 9
+
+
+
+3)You're building a simple password checker. Given a string (like a password or input), your task is to count:
+
+Total number of uppercase letters
+
+Total number of lowercase letters
+
+Total number of digits
+
+Total number of special characters (not a letter or digit)
+
+Your job is to write a program that prints these four counts.
+
+Input Format:
+A single line string (maximum 100 characters)
+
+Output Format:
+4 integers in a single line:
+uppercase lowercase digits special
+
+
+Constraints:
+1 ≤ length of string ≤ 100
+
+Input can contain letters, numbers, symbols, and spaces
+
+
+Example:
+Sample Input:
+Hello@2025!
+Sample Output:
+1 4 4 2
+
+
+
+4)Write a C program to find the reverse of the given string without using string library functions.
+
+INPUT FORMAT:
+
+Input consists of 1 string. 
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT & OUTPUT:
+
+Consensus
+
+The reversed string is susnesnoC. 
+
+
+
+
+5)Write a C program to find whether the given two strings are the same or not using string library functions.
+
+INPUT & OUTPUT FORMAT:
+
+Input consists of 2 strings. 
+
+If two strings are same, display “Strings are same”, else display “Strings are not same”. 
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT :
+consensus
+
+consensus
+
+SAMPLE OUTPUT:
+Strings are same
+
+
+
+
+6)Write a C program to find the concatenation of the given two strings using string library functions.
+
+INPUT FORMAT: 
+
+Input consists of 2 strings. 
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT :
+Consensus
+Academy 
+
+SAMPLE OUTPUT :
+
+The concatenated string is ConsensusAcademy
+
+
+
+
+
+7)Write a C program to change the given string to uppercase without using string library functions.
+
+
+INPUT & OUTPUT FORMAT:
+
+Input consists of 1 string.
+
+Output print the Uppercase of given string. 
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT :
+
+good 
+
+SAMPLE OUTPUT:
+
+String in uppercase is GOOD
+
+
+
+
+
+8)Write a C program to change the given string to lowercase without using string library functions.
+
+
+INPUT & OUTPUT FORMAT:
+
+Input consists of 1 string.
+
+Output print the Lowercase of given string. 
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT :
+
+GOOD 
+
+SAMPLE OUTPUT :
+String with lowercase is good
+
+
+
+9)Write a C program to find whether the given string is a palindrome or not without using string library functions.
+
+INPUT & OUTPUT FORMAT:
+
+Input consists of 1 string. 
+
+If the given string is a Palindrome display “Palindrome”, else display “Not a Palindrome”. 
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT:
+
+madam
+SAMPLE OUTPUT:
+
+Palindrome
+
+
+
+
+10)Write a C program to count the number of vowels in the given string.
+
+INPUT & OUTPUT FORMAT:
+
+Input consists of 1 string. 
+
+Output print the number of Vowels.
+
+
+Constraints:
+NA
+
+
+Example:
+SAMPLE INPUT : 
+
+Consensus 
+
+SAMPLE OUTPUT :
+
+Number of vowels: 3
+
